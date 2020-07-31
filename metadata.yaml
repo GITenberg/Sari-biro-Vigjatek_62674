@@ -1,0 +1,28 @@
+_repo: Sari-biro-Vigjatek_62674
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Móricz, Zsigmond
+    alias: Moricz, Zsigmond
+    birthdate: 1879
+    deathdate: 1942
+    gutenberg_agent_id: '41606'
+    url: http://www.gutenberg.org/2009/agents/41606
+    wikipedia:
+    - https://hu.wikipedia.org/wiki/M%C3%B3ricz_Zsigmond
+    - https://en.wikipedia.org/wiki/Zsigmond_M%C3%B3ricz
+description: ''
+gutenberg_issued: '2020-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62674'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian drama'
+- !lcc 'PH'
+- GITenberg
+title: 'Sári biró: Vigjáték'
+url: http://www.gutenberg.org/ebooks/62674
