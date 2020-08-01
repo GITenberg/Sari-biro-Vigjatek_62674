@@ -1,5 +1,8 @@
 _repo: Sari-biro-Vigjatek_62674
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62674-h/images/cover.jpg
 creator:
   author:
     agent_name: Móricz, Zsigmond
@@ -12,6 +15,8 @@ creator:
     - https://hu.wikipedia.org/wiki/M%C3%B3ricz_Zsigmond
     - https://en.wikipedia.org/wiki/Zsigmond_M%C3%B3ricz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62674#Sari-biro-Vigjatek
 gutenberg_issued: '2020-07-16'
 gutenberg_type: Text
 identifiers:
